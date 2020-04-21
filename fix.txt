@@ -6,3 +6,5 @@ with right transition
 Adding right email
 
 Testing with comment
+
+Logging work test
